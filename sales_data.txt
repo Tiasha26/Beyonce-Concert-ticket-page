@@ -1,0 +1,15 @@
+Tickets buyers
+Ticket buyers age group
+Number of Tickets sold
+Female
+16-21
+0
+Female
+22-35
+0
+Male
+16-21
+0
+Male
+22-35
+0 
